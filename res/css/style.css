@@ -1,0 +1,30 @@
+#cookie {
+    max-width: 20%;
+    width: 100%;
+    margin-top: 5%;
+}
+#cookie:hover{
+    transform: scale(1.05);
+    transition: .3s ease;
+    cursor: pointer;
+
+}
+#counter{
+    text-align: center;
+    font-size: 7rem;
+    font-family:  'Luckiest Guy';
+    font-weight: 650;
+    color: aliceblue;
+    letter-spacing: 3px;
+    margin-top: 2%;
+}
+.imagg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+html{
+    background-image: url("https://e0.pxfuel.com/wallpapers/313/586/desktop-wallpaper-best-of-light-blue-texture-background.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
